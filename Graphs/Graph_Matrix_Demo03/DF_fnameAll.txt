@@ -1,0 +1,2 @@
+BF traversal all vertices from A:
+A E F I G B C H D 
